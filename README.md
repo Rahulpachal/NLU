@@ -7,3 +7,4 @@ libraries like NumPy for numerical operations, and Matplotlib/Seaborn for visual
 Bidirectional Encoder Representations from Transformers, a state-of-the-art NLP model developed by Google, Known for its deep understanding of language contexts and nuances, BERT takes our analysis to new heights, allowing us to unlock insights that were previously beyond reach.
 NLTK/Regex for Python: For text preprocessing tasks such as tokenization and removal of stopwords. Used for coding, visualizing, and documenting the project workflow interactively.
 Matplotlib/Seaborn: For generating visualizations of data and results.
+We used datasets from Mendeley and github for both training and test the model.
